@@ -1,6 +1,6 @@
 # Hi there, I'm Saqib Mehmood! 👋
 
-![Profile Banner](https://user-images.githubusercontent.com/your-banner-image-link-here)
+![Profile Banner]([https://user-images.githubusercontent.com/your-banner-image-link-here](https://github.com/saqib736/saqib736/blob/main/aiXrobotics.png))
 
 ### 🚀 About Me
 I am a recent graduate from **Keio University** with a specialization in **Robotics and AI**. My passion lies in **machine learning**, **robotics**, and **computer vision**. I enjoy working on projects that merge hardware with intelligent software, making a difference in the world of technology.
@@ -26,7 +26,7 @@ I am a recent graduate from **Keio University** with a specialization in **Robot
 
 ### 🎯 Future Goals
 - Contribute to open-source projects in the AI/ML space.
-- Develop solutions for eldercare using robotics and AI.
+- Develop solutions using robotics and AI to solve real world problems.
 
 ### 📫 How to Reach Me
 - **Email**: [saqibmehmood736@gmail.com](saqibmehmood736@gmail.com)
