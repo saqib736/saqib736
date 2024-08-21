@@ -1,6 +1,6 @@
 # Hi there, I'm Saqib Mehmood! 👋
 
-![Profile Banner](https://github.com/saqib736/saqib736/blob/main/aiXrobotics.png)
+<img src="https://github.com/saqib736/saqib736/blob/main/aiXrobotics.png" alt="Profile Banner" height="50%"/>
 
 ### 🚀 About Me
 I am a recent graduate from **Keio University** with a specialization in **Robotics and AI**. My passion lies in **machine learning**, **robotics**, and **computer vision**. I enjoy working on projects that merge hardware with intelligent software, making a difference in the world of technology.
@@ -12,9 +12,9 @@ I am a recent graduate from **Keio University** with a specialization in **Robot
 - 🔭 I am open to collaborations and new challenges, especially in the **AI/ML** domain.
 
 ### 🛠️ My Tech Stack
-- **Languages**: Python, C++
-- **Frameworks & Libraries**: ROS 2, Stable-Baselines3, Gymnasium, OpenCV
-- **Tools**: Gazebo, VS Code, Git, GitHub
+- **Languages**: Python, C++, Matlab
+- **Frameworks & Libraries**: ROS 2, Pytorch/Tensorflow, Gymnasium, OpenCV
+- **Tools**: Gazebo, VS Code, Git, GitHub, Azure DevOps
 
 ### 📝 Featured Projects
 1. **[Reinforcement Learning for Autonomous Racing](https://github.com/YourRepoLinkHere)**: A project where a simulated robot navigates a race track using reinforcement learning in a Gazebo environment.
