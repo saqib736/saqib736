@@ -1,6 +1,6 @@
 # Hi there, I'm Saqib Mehmood! 👋
 
-![Profile Banner]([https://github.com/saqib736/saqib736/blob/main/aiXrobotics.png])
+![Profile Banner](https://github.com/saqib736/saqib736/blob/main/aiXrobotics.png)
 
 ### 🚀 About Me
 I am a recent graduate from **Keio University** with a specialization in **Robotics and AI**. My passion lies in **machine learning**, **robotics**, and **computer vision**. I enjoy working on projects that merge hardware with intelligent software, making a difference in the world of technology.
