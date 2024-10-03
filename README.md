@@ -20,7 +20,8 @@ I am a recent graduate from **Keio University** with a specialization in **Robot
 
 ### 📝 Featured Projects
 1. **[Reinforcement Learning for Autonomous Racing](https://github.com/YourRepoLinkHere)**: A project where a simulated robot navigates a race track using reinforcement learning in a Gazebo environment.
-2. **[Human Activity Recognition](https://github.com/YourRepoLinkHere)**: Enhancing HAR using depth and pose data from low-resolution thermal images.
+2. **[Reinforcement Learning for Autonomous Racing](https://github.com/YourRepoLinkHere)**: A project where a simulated robot navigates a race track using reinforcement learning in a Gazebo environment.
+3. **[Human Activity Recognition](https://github.com/YourRepoLinkHere)**: Enhancing HAR using depth and pose data from low-resolution thermal images.
 
 ### 🌱 I’m Currently Learning
 - Advanced deep learning techniques for robotic applications.
