@@ -5,23 +5,23 @@
 </div>
 
 ### 🚀 About Me
-I am a recent graduate from **Keio University** with a specialization in **Robotics and AI**. My passion lies in **machine learning**, **robotics**, and **computer vision**. I enjoy working on projects that merge hardware with intelligent software, making a difference in the world of technology.
+I recently graduated from **Keio University** with a specialization in **Robotics and AI**. My passion lies in **machine learning**, **robotics**, and **computer vision**. I enjoy working on projects that merge hardware with intelligent software, making a difference in the world of technology.
 
 - 🌍 Currently based in **Kanagawa Prefecture, Japan**
 - 🎓 I hold a degree in **Robotics and AI** from the **JEMARO program** at Keio University.
 - 💼 I am currently seeking opportunities in **AI/ML**, **Computer Vision**, and **Robotics**.
-- 🧠 My research focused on **Human Activity Recognition** using **thermal cameras**.
-- 🔭 I am open to collaborations and new challenges, especially in the **AI/ML** domain.
+- 🧠 During master's my research focused on **Human Activity Recognition** using **thermal cameras**.
+- 🔭 I am open to collaborations and new challenges, especially in the **AI/ML/Robotics** domain.
 
 ### 🛠️ My Tech Stack
 - **Languages**: Python, C++, Matlab
 - **Frameworks & Libraries**: ROS 2, Pytorch/Tensorflow, Gymnasium, OpenCV
-- **Tools**: Gazebo, VS Code, Git, GitHub, Azure DevOps
+- **Tools**: Gazebo, VS Code, Git, GitHub, Azure DevOps, AWS, Docker
 
 ### 📝 Featured Projects
-1. **[Reinforcement Learning for Autonomous Racing](https://github.com/YourRepoLinkHere)**: A project where a simulated robot navigates a race track using reinforcement learning in a Gazebo environment.
-2. **[Reinforcement Learning for Autonomous Racing](https://github.com/YourRepoLinkHere)**: A project where a simulated robot navigates a race track using reinforcement learning in a Gazebo environment.
-3. **[Human Activity Recognition](https://github.com/YourRepoLinkHere)**: Enhancing HAR using depth and pose data from low-resolution thermal images.
+1. **[End to End Mlops Project](https://github.com/saqib736/End-to-End-Mlops-Pipeline-Project.git)**: A simple end-to-end machine learning project, showcasing Mlops principles by utilizing Github, MLflow, Fast API and AWS deployment.
+2. **[Reinforcement Learning for Autonomous Racing](https://github.com/saqib736/ros2-reinforcement-learning.git)**: A project where a simulated robot navigates a race track using reinforcement learning in a Gazebo environment.
+3. **[Human Activity Recognition](https://github.com/saqib736/Action_Recognition.git)**: Enhancing HAR using depth and pose data from low-resolution thermal images.
 
 ### 🌱 I’m Currently Learning
 - Advanced deep learning techniques for robotic applications.
