@@ -15,8 +15,8 @@ I recently graduated from **Keio University** with a specialization in **Robotic
 
 ### 🛠️ My Tech Stack
 - **Languages**: Python, C++, Matlab
-- **Frameworks & Libraries**: ROS 2, Pytorch/Tensorflow, Gymnasium, OpenCV
-- **Tools**: Gazebo, VS Code, Git, GitHub, Azure DevOps, AWS, Docker
+- **Frameworks & Libraries**: ROS 2, PyTorch, TensorFlow, Large Language Models (LLMs), Generative AI (GenAI), Gymnasium, OpenCV, Next.js
+- **Tools**: Gazebo, VS Code, Git, GitHub, Azure DevOps, AWS, Docker, LangChain
 
 ### 📝 Featured Projects
 1. **[End to End Mlops Project](https://github.com/saqib736/End-to-End-Mlops-Pipeline-Project.git)**: A simple end-to-end machine learning project, showcasing Mlops principles by utilizing Github, MLflow, Fast API and AWS deployment.
