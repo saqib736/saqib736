@@ -18,11 +18,6 @@ I recently graduated from **Keio University** with a specialization in **Robotic
 - **Frameworks & Libraries**: ROS 2, PyTorch, TensorFlow, Large Language Models (LLMs), Generative AI (GenAI), Gymnasium, OpenCV, Next.js
 - **Tools**: Gazebo, VS Code, Git, GitHub, Azure DevOps, AWS, Docker, LangChain
 
-### 📝 Featured Projects
-1. **[End to End Mlops Project](https://github.com/saqib736/End-to-End-Mlops-Pipeline-Project.git)**: A simple end-to-end machine learning project, showcasing Mlops principles by utilizing Github, MLflow, Fast API and AWS deployment.
-2. **[Reinforcement Learning for Autonomous Racing](https://github.com/saqib736/ros2-reinforcement-learning.git)**: A project where a simulated robot navigates a race track using reinforcement learning in a Gazebo environment.
-3. **[Human Activity Recognition](https://github.com/saqib736/Action_Recognition.git)**: Enhancing HAR using depth and pose data from low-resolution thermal images.
-
 ### 🌱 I’m Currently Learning
 - Advanced deep learning techniques for robotic applications.
 - Embedded systems for real-time robotics.
